@@ -7,7 +7,7 @@ BOUNDARY = GRID_SIZE * 8
 
 # Screen setup
 screen = Screen()
-screen.bgcolor("lightblue")
+screen.bgcolor("green")
 screen.title("1 Minute Snake Game")
 screen.tracer(0)
 
